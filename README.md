@@ -1,0 +1,1 @@
+Just to test that a repo AlfrescoRuntimeException message it's not delivered to Share.
